@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF: -1, Cine Life
-https://magselect-stirr.amagi.tv/playlist720p.m3u8
-
-#EXTINF: -1, HBO
-http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/b37885e187442e5f49bcfe311f08f854068954f7/1e7e374a0ce5f9e4bc48a8224b480c71aa68c2b2/10043_19.m3u8
-
-#EXTINF: -1, HBO 2
-http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/b37885e187442e5f49bcfe311f08f854068954f7/1c0cb80babe137083ec38c8a5d69bc48a2133151/10044_19.m3u8
+#EXTINF: -1, Extrema
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF: -1, Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
