@@ -400,10 +400,10 @@ http://stream.pcriot.com/ZoD3/sg.php/102/master.m3u8
 #EXTINF:-1, tvg-logo="https://brandfolder.com/stingray/logo/stingray-primary-logo.png", Music Remember the 80's
 http://stream.pcriot.com/ZoD3/sg.php/128/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://brandfolder.com/stingray/logo/stingray-primary-logo.png" Music Flashback 70's
+#EXTINF:-1, tvg-logo="https://brandfolder.com/stingray/logo/stingray-primary-logo.png", Music Flashback 70's
 http://stream.pcriot.com/ZoD3/sg.php/115/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://brandfolder.com/stingray/logo/stingray-primary-logo.png" Music Latino
+#EXTINF:-1, tvg-logo="https://brandfolder.com/stingray/logo/stingray-primary-logo.png", Music Latino
 http://stream.pcriot.com/ZoD3/sg.php/190/master.m3u8
 
 
