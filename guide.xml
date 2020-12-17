@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal de las Estrellas">
+    <display-name lang="es">Canal de las Estrellas</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Azteca Uno">
+    <display-name lang="es">Azteca Uno</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 5">
+    <display-name lang="es">Canal 5</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201216010000 -0600" stop="20201216043000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201216043000 -0600" stop="20201216050000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201216050000 -0600" stop="20201216060000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201216060000 -0600" stop="20201216063000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20201216063000 -0600" stop="20201216080000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20201216080000 -0600" stop="20201216090000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20201216090000 -0600" stop="20201216120000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20201216120000 -0600" stop="20201216133000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20201216133000 -0600" stop="20201216143000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20201216143000 -0600" stop="20201216153000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20201216153000 -0600" stop="20201216163000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Quererlo Todo</title>
+  </programme>
+  <programme start="20201216163000 -0600" stop="20201216173000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20201216173000 -0600" stop="20201216183000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201216183000 -0600" stop="20201216193000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">La Mexicana y el Güero</title>
+  </programme>
+  <programme start="20201216193000 -0600" stop="20201216203000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201216203000 -0600" stop="20201216213000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Vencer el Desamor</title>
+  </programme>
+  <programme start="20201216213000 -0600" stop="20201216223000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Imperio de Mentiras</title>
+  </programme>
+  <programme start="20201216223000 -0600" stop="20201216230000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20201216230000 -0600" stop="20201217000000 -0600" channel="Canal de las Estrellas">
+    <title lang="es">Tercer Grado</title>
+  </programme>
+  <programme start="20201216001500 -0600" stop="20201216003000 -0600" channel="Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20201216003000 -0600" stop="20201216040000 -0600" channel="Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201216040000 -0600" stop="20201216041500 -0600" channel="Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20201216041500 -0600" stop="20201216050000 -0600" channel="Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201216050000 -0600" stop="20201216053000 -0600" channel="Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20201216053000 -0600" stop="20201216061500 -0600" channel="Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201216061500 -0600" stop="20201216070000 -0600" channel="Azteca Uno">
+    <title lang="es">Primera Línea</title>
+  </programme>
+  <programme start="20201216070000 -0600" stop="20201216080000 -0600" channel="Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20201216080000 -0600" stop="20201216090000 -0600" channel="Azteca Uno">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20201216090000 -0600" stop="20201216110000 -0600" channel="Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20201216110000 -0600" stop="20201216130000 -0600" channel="Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20201216130000 -0600" stop="20201216140000 -0600" channel="Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20201216140000 -0600" stop="20201216150000 -0600" channel="Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20201216150000 -0600" stop="20201216163000 -0600" channel="Azteca Uno">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20201216163000 -0600" stop="20201216173000 -0600" channel="Azteca Uno">
+    <title lang="es">Todos quieren fama</title>
+  </programme>
+  <programme start="20201216173000 -0600" stop="20201216193000 -0600" channel="Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20201216193000 -0600" stop="20201216223000 -0600" channel="Azteca Uno">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20201216223000 -0600" stop="20201216231500 -0600" channel="Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20201216231500 -0600" stop="20201216233000 -0600" channel="Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20201216233000 -0600" stop="20201217000000 -0600" channel="Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20201216010000 -0600" stop="20201216013000 -0600" channel="Canal 5">
+    <title lang="es">Estatus</title>
+  </programme>
+  <programme start="20201216013000 -0600" stop="20201216043000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201216043000 -0600" stop="20201216050000 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201216050000 -0600" stop="20201216063000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201216063000 -0600" stop="20201216070000 -0600" channel="Canal 5">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20201216070000 -0600" stop="20201216073000 -0600" channel="Canal 5">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20201216073000 -0600" stop="20201216080000 -0600" channel="Canal 5">
+    <title lang="es">Ositos Cariñositos</title>
+  </programme>
+  <programme start="20201216080000 -0600" stop="20201216083000 -0600" channel="Canal 5">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20201216083000 -0600" stop="20201216090000 -0600" channel="Canal 5">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20201216090000 -0600" stop="20201216093000 -0600" channel="Canal 5">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20201216093000 -0600" stop="20201216100000 -0600" channel="Canal 5">
+    <title lang="es">Trulli Tales</title>
+  </programme>
+  <programme start="20201216100000 -0600" stop="20201216110000 -0600" channel="Canal 5">
+    <title lang="es">Danny Phantom</title>
+  </programme>
+  <programme start="20201216110000 -0600" stop="20201216120000 -0600" channel="Canal 5">
+    <title lang="es">Avatar La Leyenda de Aang</title>
+  </programme>
+  <programme start="20201216120000 -0600" stop="20201216130000 -0600" channel="Canal 5">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20201216130000 -0600" stop="20201216140000 -0600" channel="Canal 5">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20201216140000 -0600" stop="20201216150000 -0600" channel="Canal 5">
+    <title lang="es">Henry Danger</title>
+  </programme>
+  <programme start="20201216150000 -0600" stop="20201216160000 -0600" channel="Canal 5">
+    <title lang="es">Miraculous II</title>
+  </programme>
+  <programme start="20201216160000 -0600" stop="20201216170000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20201216170000 -0600" stop="20201216180000 -0600" channel="Canal 5">
+    <title lang="es">Victorious</title>
+  </programme>
+  <programme start="20201216180000 -0600" stop="20201216193000 -0600" channel="Canal 5">
+    <title lang="es">Drake y Josh</title>
+  </programme>
+  <programme start="20201216193000 -0600" stop="20201216203000 -0600" channel="Canal 5">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20201216203000 -0600" stop="20201216223000 -0600" channel="Canal 5">
+    <title lang="es">Me caigo de risa</title>
+  </programme>
+  <programme start="20201216223000 -0600" stop="20201216233000 -0600" channel="Canal 5">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201216233000 -0600" stop="20201217000000 -0600" channel="Canal 5">
+    <title lang="es">Gotham</title>
+  </programme>
+</tv>
