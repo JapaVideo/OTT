@@ -416,10 +416,6 @@ http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/119
 #EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
 http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/117
 
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO Mundi
-#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
-http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/117
-
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/22/73/bb/2273bb6b9d4b5451ab2c170fbbe374d3.png", Coraje
 #EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
 http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/237
