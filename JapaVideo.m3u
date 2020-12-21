@@ -384,6 +384,63 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=zec
 #EXTINF:-1, tvg-id="Fox Sports3" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425386-8c.png", Fox Sports3
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO 
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/112
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png", HBO 2
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/113
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417664-8c.png", HBO Family
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/114
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png", HBO Plus
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/115
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png", HBO Pop
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/118
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png", HBO Signature
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/116
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png", HBO Xtreme
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/119
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO Mundi
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/117
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO Mundi
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/117
+
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/22/73/bb/2273bb6b9d4b5451ab2c170fbbe374d3.png", Coraje
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/237
+
+#EXTINF:-1, tvg-logo="https://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png", Los Simpson
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/262
+
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/1a/8b/b9/1a8bb9df1d97a030cd0f7f2c21f9646d.png", Coyote y Correcaminos
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/250
+
+#EXTINF:-1, tvg-logo="https://assets.stickpng.com/images/59d624853752880e93e16e94.png", Los Picapiedras
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/209
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1280px-International_Pok%C3%A9mon_logo.svg.png", Pokemon
+#EXTVLCOPT:http-user-agent=IPTV-FullPlay3.0
+http://globaltvplus.club:25461/FullPlay3.0IPTV/IPTV-FullPlay3.0/217
+
+
 #EXTINF:-1, tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
