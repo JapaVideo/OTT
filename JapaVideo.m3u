@@ -117,6 +117,34 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zec
 #EXTINF:-1,  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505130-8c.png", De Pelicula
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO 
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/601.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png", HBO 2
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/603.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417664-8c.png", HBO Family
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/602.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png", HBO Plus
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/600.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png", HBO Pop
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/593.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png", HBO Signature
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/599.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO Mundi
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/594.m3u8
+
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png", Golden
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
