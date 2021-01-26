@@ -149,6 +149,14 @@ http://latvonlive.com:33612/live/Rico/1234/594.m3u8
 #EXTVLCOPT:http-user-agent=Rico
 http://latvonlive.com:33612/live/Rico/1234/19.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png", DHE
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/97.m3u8
+
+#EXTINF:-1, tvg-logo="https://img2.freepng.es/20181109/ptz/kisspng-discovery-familia-discovery-family-image-logo-cox-cable-deals-in-your-area-local-cable-deals-5be5febe847ce2.9028707615417996145427.jpg", Discovery Famiia
+#EXTVLCOPT:http-user-agent=Rico
+http://latvonlive.com:33612/live/Rico/1234/921.m3u8
+
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/xlbZupDK_ylgrkONXnZEF1pSTks446Z4-mQIHeelY5tXS7sd-QZSQMYLmBm8i_p7nB8=h1024-no-tmp_cine_sony_ya_apk.jpg", Cine Sony
 #EXTVLCOPT:http-user-agent=Rico
 http://latvonlive.com:33612/live/Rico/1234/493.m3u8
