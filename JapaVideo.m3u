@@ -146,6 +146,7 @@ http://51.222.43.170:36995/Tania/Tania/135
 http://51.222.43.170:36995/Tania/Tania/136
 
 #EXTINF:-1, tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", Golden Premier
+#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
 http://51.222.43.170:36995/Tania/Tania/8053
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png", Golden
