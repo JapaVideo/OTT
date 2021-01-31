@@ -157,6 +157,10 @@ http://51.222.43.170:36995/Tania/Tania/137
 #EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
 http://51.222.43.170:36995/Tania/Tania/8053
 
+#EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png", Cine Latino
+#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
+http://51.222.43.170:36995/Tania/Tania/20451
+
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png", HBO Xtreme
 #EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
 http://51.222.43.170:36995/Tania/Tania/1464
