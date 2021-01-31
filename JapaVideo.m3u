@@ -134,8 +134,8 @@ http://51.222.43.170:36995/Tania/Tania/232627
 http://51.222.43.170:36995/Tania/Tania/1510
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417664-8c.png", HBO Family
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-http://208.88.247.40:2095/652HBOFamily/transco14/chunk_Auth=/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
+http://51.222.43.170:36995/Tania/Tania/1475
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png", HBO Plus
 #EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
@@ -144,6 +144,14 @@ http://51.222.43.170:36995/Tania/Tania/135
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png", HBO Signature
 #EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
 http://51.222.43.170:36995/Tania/Tania/136
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png", HBO Pop
+#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
+http://51.222.43.170:36995/Tania/Tania/136
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO Mundi
+#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
+http://51.222.43.170:36995/Tania/Tania/137
 
 #EXTINF:-1, tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", Golden Premier
 #EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
