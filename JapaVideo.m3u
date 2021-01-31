@@ -157,6 +157,10 @@ http://51.222.43.170:36995/Tania/Tania/137
 #EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
 http://51.222.43.170:36995/Tania/Tania/8053
 
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png", HBO Xtreme
+#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
+http://51.222.43.170:36995/Tania/Tania/1464
+
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png", Golden
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
