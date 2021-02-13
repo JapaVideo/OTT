@@ -2,3 +2,13 @@
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png", Offline
 https://www.youtube.com/embed/zFiiieNVwLI
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png", Offline
+https://www.youtube.com/embed/zFiiieNVwLI
+#EXTINF:, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png", Offline
+https://www.youtube.com/embed/zFiiieNVwLI
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png", Offline
+https://www.youtube.com/watch?v=zFiiieNVwLI
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png", Offline
+https://www.youtube.com/watch?v=zFiiieNVwLI
+#EXTINF:, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png", Offline
+https://www.youtube.com/watch?v=zFiiieNVwLI
