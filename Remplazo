@@ -122,65 +122,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zec
 #EXTINF:-1,  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505130-8c.png", De Pelicula
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO 
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://89.105.194.59:25461/live/1mov$!GI/1mov$!GI/24.m3u8
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO 
-#EXTVLCOPT:http-user-agent=1mov$!GI
-http://89.105.194.59:25461/live/1mov$!GI/1mov$!GI/24.m3u8
-
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png", HBO 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/134
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/1200px-Discovery_Familia_logo.svg.png", Discovery Familia
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/232627
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425255-8c.png", History 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/1510
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417664-8c.png", HBO Family
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/1475
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png", HBO Plus
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/135
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png", HBO Signature
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/136
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png", HBO Pop
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/139
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO Mundi
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/137
-
-#EXTINF:-1, tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", Golden Premier
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/8053
-
-#EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png", Cine Latino
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/20451
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png", HBO Xtreme
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/1464
-
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416701-8c.png", Vh1 Music
  https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=334&format=HLS&f=.m3u8
-
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416701-8c.png", Vh1 USA
-#EXTVLCOPT:http-user-agent=VLC/3.0.11.1 LibVLC/3.0.11.1
-http://51.222.43.170:36995/Tania/Tania/353
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543974-8c.png", Golden
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -448,3 +391,35 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=zec
 
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425386-8c.png", Fox Sports3
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO 
+#EXTVLCOPT:http-user-agent=Carlos28
+http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/10886.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png", HBO 2
+#EXTVLCOPT:http-user-agent=Carlos28
+http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/10884.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417664-8c.png", HBO Family
+#EXTVLCOPT:http-user-agent=Carlos28
+http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/10877.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png", HBO Plus
+#EXTVLCOPT:http-user-agent=Carlos28
+http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/10879.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417662-8c.png", HBO Signature
+#EXTVLCOPT:http-user-agent=Carlos28
+http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/10881.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425955-8c.png", HBO Pop
+#EXTVLCOPT:http-user-agent=Carlos28
+http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/41421.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425953-8c.png", HBO Mundi
+#EXTVLCOPT:http-user-agent=Carlos28
+http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/10863.m3u8
+
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png", HBO Xtreme
+#EXTVLCOPT:http-user-agent=Carlos28
+http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/197618.m3u8
