@@ -426,3 +426,7 @@ http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/10863.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425957-8c.png", HBO Xtreme
 #EXTVLCOPT:http-user-agent=Carlos28
 http://sdmx.us:8080/live/Carlos28/ayZeaMkjJT/197618.m3u8
+
+#EXTINF:-1, tvg-logo="https://turistiktv.com.mx/inicio/wp-content/uploads/2020/03/LOGO-TURISTIK-300-23.png", Turistik Tv
+https://5fa5de1a545ae.streamlock.net/turistik/turistik/chunklist_w1238302180.m3u8
+
