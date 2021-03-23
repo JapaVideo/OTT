@@ -295,8 +295,7 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
 
-
-#EXTM3U
+#EXTINF:0, tvg-logo="https://c0.klipartz.com/pngpicture/684/1011/gratis-png-brazo-de-linux-de-la-computadora-de-una-sola-placa-de-la-frambuesa-pi-arco-de-linux-logotipo-de-frambuesa.png" group-title="Disney", #EXTINF D' Carga SDK
 #EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cenicienta
 http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Cenicienta%20(1950)%20720p%20LATINO/Cenicienta%20(1950)%20720p%20LATINO.mp4
 #EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cenicienta 2
@@ -345,8 +344,8 @@ http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATI
 http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Tierra%20de%20Osos%20(2003)%201080p%20LATINO/Tierra%20de%20Osos%20(2003)%201080p%20LATINO.mkv
 #EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Frozen 2
 http://51.77.66.14/Frozen%202%202019%20BDRip%201080p%20Latino/Frozen%202%202019%20BDRip%201080p%20Latino.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Mulan 2020
-http://51.77.66.14/Mulan.2020.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.265-PHOENiX.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Mulan
+http://m0478.contaboserver.net/Bryan/Arrow_T4/pelisarreglar/mulan.mp4
 #EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Dumbo 2019
 http://51.77.66.14/Dumbo%20(2019)%20BDRip%201080p%20Latino.mkv
 #EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", El Rey Leon 2019
@@ -393,3 +392,5 @@ http://m0478.contaboserver.net/Bryan/pelisdisney/toy%20story%202.mp4
 http://m0478.contaboserver.net/Bryan/pelisdisney/toy%20story%203.mp4
 #EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Un Gran Dinosaurio
 http://m0478.contaboserver.net/Bryan/pelisdisney/un%20gran%20dinosaurio.mp4
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Raya y El Ultimo Dragon
+https://archive.org/download/raya.-and.-the.-last.-dragon.-2021.-hd.-720p.-dual.-latino.-mega-1080p.-org.mkv/Raya.And.The.Last.Dragon.2021.HD.720p.Dual.Latino.Mega1080p.ORG.mp4
