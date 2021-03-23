@@ -295,7 +295,7 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
 
-#EXTINF:0, group-title="Coraje el Perro Cobarde", Coraje el Perro Cobarde S01/01
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6GgsPD43JYdQT1IdwByItdIrr5f.jpg" group-title="Coraje el Perro Cobarde", Coraje el Perro Cobarde S01/01
 http://201.172.61.81:85/series/Caricaturas/1Coraje%20Perro%20Cobarde/C0R4J3.S01/01.mp4
 #EXTINF:0, group-title="Coraje el Perro Cobarde", Coraje el Perro Cobarde S01/02
 http://201.172.61.81:85/series/Caricaturas/1Coraje%20Perro%20Cobarde/C0R4J3.S01/02.mp4
