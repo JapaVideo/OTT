@@ -294,5 +294,52 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505132-8c.png", VH1|MX
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vqzeSm5Agvio7DahhKXaySUbUUW.jpg" group-title="Disney", Cenicienta
+
+
+#EXTM3U
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cenicienta
 http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Cenicienta%20(1950)%20720p%20LATINO/Cenicienta%20(1950)%20720p%20LATINO.mp4
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cenicienta 2
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Cenicienta%202%20(2002)%20HD%201080p%20LATINO/Cenicienta%202%20(2002)%20HD%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cenicienta 3
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Cenicienta%203%20(2007)%20HD%201080p%20LATINO/Cenicienta%203%20(2007)%20HD%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Blancanieves y los Siete Enanos
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Blanca%20Nieves%20y%20Los%20Siete%20Enanos%20(1937)%20720p%20LATINO/Blanca%20Nieves%20y%20Los%20Siete%20Enanos%20(1937)%20720p%20LATINO.mp4
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Aladdin
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Aladdin%20(1992)%20720p%20LATINO/Aladdin%20(1992)%20720p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Alicia en el pais de las Maravilas
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Alicia%20En%20El%20Pais%20De%20Las%20Maravillas%20(1951)%20LATINO/Alicia%20En%20El%20Pais%20De%20Las%20Maravillas%20(1951)%20LATINO.MP4
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Aristogatos
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Aristogatos%20(1970)%20720p%20LATINO/Aristogatos%20(1970)%20720p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Bambi
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Bambi%20(1942)%20HD%201080p%20LATINO/Bambi%20(1942)%20HD%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Dumbo
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Dumbo%20(1941)%20HD%201080p%20LATINO/Dumbo%20(1941)%20HD%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", El Jorobado de Notre Dame
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/El%20Jorobado%20de%20Notre%20Dame%20(1996)%20720p%20LATINO/El%20Jorobado%20de%20Notre%20Dame%20(1996)%20720p%20LATINO.mp4
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", El Libro de la Selva
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/El%20Libro%20De%20La%20Selva%20(1967)%20720p%20LATINO/El%20Libro%20De%20La%20Selva%20(1967)%20720p%20LATINO.mp4
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", El Rey Leon
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/El%20Rey%20Leon%20(1994)%201080p%20LATINO/El%20Rey%20Leon%20(1994)%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Enredados
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Enredado%20(2010)%201080p%20LATINO/Enredado%20(2010)%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Hercules
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Hercules%201997%201080p%20LATINO/Hercules%201997%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", La Bella Durmiente
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/La%20Bella%20Durmiente%20(1959)%201080p%20LATINO/La%20Bella%20Durmiente%20(1959)%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", La Bella y la Bestia
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/La%20Bella%20y%20La%20Bestia%20(1991)%201080p%20LATINO/La%20Bella%20y%20La%20Bestia%20(1991)%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", La Dama y el Bagabundo
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/La%20Dama%20y%20el%20Vagabundo(1955)%201080p%20LATINO/La%20Dama%20y%20el%20Vagabundo(1955)%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", La Sirenita
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/La%20Sirenita%20(1989)%201080p%20LATINO/La%20Sirenita%20(1989)%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Peter Pan
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Peter%20Pan%20(1953)%201080p%20LATINO/Peter%20Pan%20(1953)%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Pinocho
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Pinocho%20(1940)%201080p/Pinocho%20(1940)%201080p.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Pocahontas
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Pocahontas%20(1995)%201080p%20LATINO/Pocahontas%20(1995)%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Tarzan
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Tarzan%20(1999)%20HD%201080p%20LATINO/Tarzan%20(1999)%20HD%201080p%20LATINO.mkv
+#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Tierra de Osos
+http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Tierra%20de%20Osos%20(2003)%201080p%20LATINO/Tierra%20de%20Osos%20(2003)%201080p%20LATINO.mkv
