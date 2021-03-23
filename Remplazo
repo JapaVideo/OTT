@@ -196,7 +196,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF: -1,  tvg-logo="https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-large.png", Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Latinos_Up_TV_entretenimiento_online_en_New_York_y_el_mundo.png",Music Latino UP
-https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1892215956.m3u8
 #EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/ae9e39_d7a4e917e5824664a9e00fca6e365c95~mv2.png", Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425253-8c.png", TLC
@@ -294,104 +294,3 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505132-8c.png", VH1|MX
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
-
-#EXTINF:0, tvg-logo="https://i.pinimg.com/originals/6e/de/a8/6edea84dffc69d2c190c427be484143c.png" group-title="Disney", #EXTINF D' Carga SDK
-https://archive.org/download/karolgftnickiminajtusa/Karol%20G%20ft%20Nicki%20Minaj%20-%20Tusa.mp3
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cenicienta
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Cenicienta%20(1950)%20720p%20LATINO/Cenicienta%20(1950)%20720p%20LATINO.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cenicienta 2
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Cenicienta%202%20(2002)%20HD%201080p%20LATINO/Cenicienta%202%20(2002)%20HD%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cenicienta 3
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Cenicienta%203%20(2007)%20HD%201080p%20LATINO/Cenicienta%203%20(2007)%20HD%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Blancanieves y los Siete Enanos
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Blanca%20Nieves%20y%20Los%20Siete%20Enanos%20(1937)%20720p%20LATINO/Blanca%20Nieves%20y%20Los%20Siete%20Enanos%20(1937)%20720p%20LATINO.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Aladdin
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Aladdin%20(1992)%20720p%20LATINO/Aladdin%20(1992)%20720p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Alicia en el pais de las Maravilas
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Alicia%20En%20El%20Pais%20De%20Las%20Maravillas%20(1951)%20LATINO/Alicia%20En%20El%20Pais%20De%20Las%20Maravillas%20(1951)%20LATINO.MP4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Aristogatos
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Aristogatos%20(1970)%20720p%20LATINO/Aristogatos%20(1970)%20720p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Bambi
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Bambi%20(1942)%20HD%201080p%20LATINO/Bambi%20(1942)%20HD%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Dumbo
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Dumbo%20(1941)%20HD%201080p%20LATINO/Dumbo%20(1941)%20HD%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", El Jorobado de Notre Dame
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/El%20Jorobado%20de%20Notre%20Dame%20(1996)%20720p%20LATINO/El%20Jorobado%20de%20Notre%20Dame%20(1996)%20720p%20LATINO.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", El Libro de la Selva
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/El%20Libro%20De%20La%20Selva%20(1967)%20720p%20LATINO/El%20Libro%20De%20La%20Selva%20(1967)%20720p%20LATINO.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", El Rey Leon
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/El%20Rey%20Leon%20(1994)%201080p%20LATINO/El%20Rey%20Leon%20(1994)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Enredados
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Enredado%20(2010)%201080p%20LATINO/Enredado%20(2010)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Hercules
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Hercules%201997%201080p%20LATINO/Hercules%201997%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", La Bella Durmiente
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/La%20Bella%20Durmiente%20(1959)%201080p%20LATINO/La%20Bella%20Durmiente%20(1959)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", La Bella y la Bestia
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/La%20Bella%20y%20La%20Bestia%20(1991)%201080p%20LATINO/La%20Bella%20y%20La%20Bestia%20(1991)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", La Dama y el Bagabundo
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/La%20Dama%20y%20el%20Vagabundo(1955)%201080p%20LATINO/La%20Dama%20y%20el%20Vagabundo(1955)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", La Sirenita
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/La%20Sirenita%20(1989)%201080p%20LATINO/La%20Sirenita%20(1989)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Peter Pan
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Peter%20Pan%20(1953)%201080p%20LATINO/Peter%20Pan%20(1953)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Pinocho
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Pinocho%20(1940)%201080p/Pinocho%20(1940)%201080p.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Pocahontas
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Pocahontas%20(1995)%201080p%20LATINO/Pocahontas%20(1995)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Tarzan
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Tarzan%20(1999)%20HD%201080p%20LATINO/Tarzan%20(1999)%20HD%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Tierra de Osos
-http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Tierra%20de%20Osos%20(2003)%201080p%20LATINO/Tierra%20de%20Osos%20(2003)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Frozen 2
-http://51.77.66.14/Frozen%202%202019%20BDRip%201080p%20Latino/Frozen%202%202019%20BDRip%201080p%20Latino.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Mulan
-http://m0478.contaboserver.net/Bryan/Arrow_T4/pelisarreglar/mulan.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Dumbo 2019
-http://51.77.66.14/Dumbo%20(2019)%20BDRip%201080p%20Latino.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", El Rey Leon 2019
-http://51.77.66.14/El%20Rey%20Le%c3%b3n%20(2019)%20%20BDRIP%201080P%20Latino/El%20Rey%20Le%c3%b3n%20(2019)%20%20BDRIP%201080P%20Latino.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", COCO
-http://51.77.66.14/Coco.2017.1080p.BluRay.x264.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", El Cascanueces y los Cuatro Reinos
-http://51.77.66.14/El.Cascanueces.y.los.Cuatro.Reinos.2018.1080p.BluRay.h264.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Malefica Maestra del Mal
-http://51.77.66.14/Maleficent%20Mistress%20of%20Evil%202019%20BDRip%201080p%20Latino/Maleficent%20Mistress%20of%20Evil%202019%20BDRip%201080p%20Latino.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Soul
-http://51.77.66.14/Soul%20(2020)%201080p%20BRrip%20x264%20%5bspa,%20eng%5d.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Toy Story 4
-http://51.77.66.14/Toy%20Story%204%20(2019)%20BDRip%201080p%20Latino/Toy%20Story%204%20(2019)%20BDRip%201080p%20Latino.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Ralph Wifi
-http://51.77.66.14/Wifi.Ralph.2018.1080p.WEB-DL.H264.mkv
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Ralph
-http://m0478.contaboserver.net/Bryan/pelisdisney/Ver%20%c2%a1Rompe%20Ralph!%20_%20Ralph,%20el%20demoledor%20Online%20(2012)%20-%20REPELIS%20Pel%c3%adculas%20HD.MP4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Frozen
-http://m0478.contaboserver.net/Bryan/pelisdisney/Ver%20Frozen-%20El%20reino%20del%20hielo%20Online%20(2013)%20-%20REPELIS%20Pel%c3%adculas%20HD.MP4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Moana
-http://m0478.contaboserver.net/Bryan/pelisdisney/Ver%20Moana-%20Un%20Mar%20de%20Aventuras%20(2016)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", UP Una Aventura de Altura
-http://m0478.contaboserver.net/Bryan/pelisdisney/Ver%20Pelicula%20Up,%20una%20Aventura%20de%20Altura%20Online%20Gratis.MP4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cars
-http://m0478.contaboserver.net/Bryan/pelisdisney/cars%201.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cars 2
-http://m0478.contaboserver.net/Bryan/pelisdisney/cars%202.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Cars 3
-http://m0478.contaboserver.net/Bryan/pelisdisney/cars3.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Zootopia
-http://m0478.contaboserver.net/Bryan/pelisdisney/Ver%20Pelicula%20Zootopia%20Online%20Gratis.MP4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Buscando a Dory
-http://m0478.contaboserver.net/Bryan/pelisdisney/dory.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Increibles
-http://m0478.contaboserver.net/Bryan/pelisdisney/increibles%201.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Intensamente
-http://m0478.contaboserver.net/Bryan/pelisdisney/intensamente.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Toy Story
-http://m0478.contaboserver.net/Bryan/pelisdisney/toy%20story.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Toy Story 2
-http://m0478.contaboserver.net/Bryan/pelisdisney/toy%20story%202.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Toy Story 3
-http://m0478.contaboserver.net/Bryan/pelisdisney/toy%20story%203.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Un Gran Dinosaurio
-http://m0478.contaboserver.net/Bryan/pelisdisney/un%20gran%20dinosaurio.mp4
-#EXTINF:0, tvg-logo="https://www.pngkey.com/png/full/133-1336114_tumblr-logo-png-transparent-background-disney-logo-pink.png" group-title="Disney", Raya y El Ultimo Dragon
-https://archive.org/download/raya.-and.-the.-last.-dragon.-2021.-hd.-720p.-dual.-latino.-mega-1080p.-org.mkv/Raya.And.The.Last.Dragon.2021.HD.720p.Dual.Latino.Mega1080p.ORG.mp4
