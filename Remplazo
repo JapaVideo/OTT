@@ -294,6 +294,7 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505132-8c.png", VH1|MX
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
-#EXTINF:0, tvg-logo="", EXTINF-SDK:g5SgSL12J05
-
-
+#EXTINF:0, tvg-logo="", Coraje el Perro Cobarde
+https://raw.githubusercontent.com/JapaVideo/Sala-de-Estar/main/Coraje_el_Perro_Cobarde.m3u
+#EXTINF:0, tvg-logo="", Los Padrinoa Magicos
+https://raw.githubusercontent.com/JapaVideo/Sala-de-Estar/main/Los_Padrinos_Magicos.m3u
