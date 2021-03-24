@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:0, group-title="Peliculas", Trolls
+http://201.172.61.81:85/peliculas/Ni%c3%b1os/Trolls.2016.4K.mp4
+
 #EXTINF:0, group-title="Los Padrinos Magicos", Los Padrinos Magicos S01/01
 http://201.172.61.81:85/series/Caricaturas/los%20padrinos%20magicos/Temporada%201/01.mp4
 #EXTINF:0, group-title="Los Padrinos Magicos", Los Padrinos Magicos S01/02
