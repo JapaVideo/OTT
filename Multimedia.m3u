@@ -1,49 +1,79 @@
 #EXTM3U 
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mXM24pzpmC4CNfqprYv4ubX1O0y.jpg" group-title="Infantiles", Mi Villano Favorito 3
+https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%203.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/lWNrQj6t2bnqdQcEjkIDTaFQIHi.jpg" group-title="Infantiles", Mi Villano Favorito 2
+https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%202.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9WropUZ12AKIgtn2v8d5xef2IW9.jpg" group-title="Infantiles", Mi Villano Favorito
+https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%201.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eM7ZXprZaw0bE6iiIrTBJVcKbo7.jpg" group-title="Infantiles", Los Minions
+https://storage.googleapis.com/peliculasmoviesdayplay/Los%20minions.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9ZMKx0yjRLt5SnqJ4DKcZlQGjL0.jpg" group-title="Infantiles", Ralph Wi-Fi
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Ralph%20wifi.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qVl5wCqPPKLCFlBiURhBSTWjLSH.jpg" group-title="Infantiles", Ralph el Demoledor
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Ralph%20el%20demoledor.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4jiwsh6i9DeguL4iRgQkpkP7m11.jpg" group-title="Infantiles", Onward
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Unidos.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg" group-title="Infantiles", Grandes Heroes
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Grandes%20heroes.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="Infantiles", Frozen 2
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Frozen%202.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8TEsWQbWxMKj8eir8COWfw2HYyC.jpg" group-title="Infantiles", Frozen
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Frozen.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg" group-title="Infantiles", Bolt
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Bolt.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/sCDOjkuPowFvTiUfi3vKwXdFqc6.jpg" group-title="Infantiles", Bichos
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Bichos.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jbqWAQOFo1LZTIG6rzlRFkZlIH5.jpg" group-title="Infantiles", Monster University
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Monsters%20University.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jTE3BLVCpYaR71L2U8SHV22HvEr.jpg" group-title="Infantiles", Monster Inc
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Monsters%20inc..mp4
+
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yMoMlJo2msoVwmuf6k1C78MrB3H.jpg" group-title="Infantiles", Tom y Jerry
+https://dl16.ftk.pw/user/shahab3/film/Tom.And.Jerry.2021.1080p.BluRay.Film2Movie_Asia.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/67ZrxjUEXPObtc2D5BDAjsXrnnR.jpg" group-title="Infantiles", Raya y el Ultimo Dragon
 https://cdn.lbryplayer.xyz/api/v4/streams/free/ClipRayaYElUltimoDragon/5a117952448d646a12d2dbef3461d5d4da05a84f/d9228d
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gOn12DehCCeeIsLW9gH1WENWUjj.jpg" group-title="Infantiles", Ratatouille
-http://51.77.66.14/07-Pixar/Ratatouille.(2007)/Ratatouille.(2007).mkv
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Ratatouille.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg" group-title="Infantiles", Cars
-http://m0478.contaboserver.net/Bryan/pelisdisney/cars%201.mp4
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Cars.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/szaaEaRQEqvZoyBIppNIRRhtfSV.jpg" group-title="Infantiles", Cars 2
 http://m0478.contaboserver.net/Bryan/pelisdisney/cars%202.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ucGU1HyLfxoQwuq22VWwq55m0cH.jpg" group-title="Infantiles", Cars 3
-http://m0478.contaboserver.net/Bryan/pelisdisney/cars3.mp4
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Cars%203.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg" group-title="Infantiles", Moana
-http://m0478.contaboserver.net/Bryan/pelisdisney/Ver%20Moana-%20Un%20Mar%20de%20Aventuras%20(2016)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Moana.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kRN9FCa5dQ0niViuCwHSs5fJWqt.jpg" group-title="Infantiles", Un Gran Dinosaurio
 http://m0478.contaboserver.net/Bryan/pelisdisney/un%20gran%20dinosaurio.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9LRFNLthb0jfWC0HUDUWjYgpP9F.jpg" group-title="Infantiles", Zootopia
-http://m0478.contaboserver.net/Bryan/pelisdisney/Ver%20Pelicula%20Zootopia%20Online%20Gratis.MP4
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Zootopia.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vSdpOU6rDK7IpmOD7iAvlZdMUCc.jpg" group-title="Infantiles", UP una Aventura de Altura
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Up,%20una%20Aventura%20de%20Altura%20Online%20Gratis.MP4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cTXHRoiKnuNdLRy4qn7JhQXHZO0.jpg" group-title="Infantiles", Intensamente
-http://193.34.144.178/Bryan/pelisdisney/intensamente.mp4
-
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Intensamente.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg" group-title="Infantiles", Trolls 2
 http://201.172.61.81:85/peliculas/Ni%c3%b1os/Trolls.2.2020.BDrip.60FPS.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5nDbnZ9UssqVoVRggQOb2icL9Pb.jpg" group-title="Infantiles", Trolls
 http://201.172.61.81:85/peliculas/Ni%c3%b1os/Trolls.2016.4K.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/GdMDcacJra4ZmDaBIRASIpzjmU.jpg" group-title="Infantiles", Toy Story
-http://51.77.66.14/07-Pixar/Toy.Story.(1995).FullHD.1080p/Toy.Story.(1995).FullHD.1080p.mkv
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Toy%20story.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eVGu0zsezaSCuN67zgNhzjeNI9Z.jpg" group-title="Infantiles", Toy Story 2
-http://51.77.66.14/07-Pixar/Toy.Story.2.(1999).FullHD.1080p/Toy.Story.2.(1999).FullHD.1080p.mkv
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Toy%20Story%202.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4cpGytCB0eqvRks4FAlJoUJiFPG.jpg" group-title="Infantiles", Toy Story 3
-http://51.77.66.14/07-Pixar/Toy.Story.3.1080p.BluRay.LATiNO.ENG.X264-ETHOS/Toy.Story.3.1080p.BluRay.LATiNO.ENG.X264-ETHOS.mkv
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Toy%20story%203.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg" group-title="Infantiles", Toy Story 4
-http://51.77.66.14/Toy%20Story%204%20(2019)%20BDRip%201080p%20Latino/Toy%20Story%204%20(2019)%20BDRip%201080p%20Latino.mkv 
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Toy%20story%204.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jPhak722pNGxQIXSEfeWIUqBrO5.jpg" group-title="Infantiles", Buscando a Nemo
 http://51.77.66.14/07-Pixar/Buscando.a.Nemo/Buscando.a.Nemo.mkv
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg" group-title="Infantiles", Coco
-http://51.77.66.14/07-Pixar/Coco%20(2017)%201080p%20BDRip%20Dual%20Audio%20Latino%20Bluray-Ingl%c3%a9s/Coco%20(2017)%201080p%20BDRip%20Dual%20Audio%20Latino%20Bluray-Ingl%c3%a9s.mkv
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Coco.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6yvnEd5KqU7r3gjUMOGtFwYRcJp.jpg" group-title="Infantiles", Increibles
-http://51.77.66.14/07-Pixar/Incredibles%20(2004)%201080p/Incredibles%20(2004)%201080p.mkv
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Los%20increibles.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/iNIKq8r155eRFlsoaxgfRYs71qY.jpg" group-title="Infantiles", Increibles 2
-http://51.77.66.14/07-Pixar/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264-FGT.LATINO/Incredibles.2.2018.1080p.WEB-DL.DD5.1.H264-FGT.LATINO.mkv
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Los%20increibles%202.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg" group-title="Infantiles", Buscando a Dory
-http://51.77.66.14/07-Pixar/Finding.Dory.2016.1080p.BluRay.X264-AMIABLE.LATINO/Finding.Dory.2016.1080p.BluRay.X264-AMIABLE.LATINO.mkv
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Buscando%20a%20dory.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg" group-title="Infantiles", Wall-e
-http://home.fa.ulisboa.pt/~cfig/Filmes%20em%20Estudo/WALL-E%20(2008)%20%5B1080p%5D/WALL-E.2008.1080p.BrRip.x264.YIFY.mp4
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/wall-e.mp4
 
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Ciencia Ficcion",1° Harry Potter y la Piedra Filosofal
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.and.the.Sorcerers.Stone.2001%201080p%20Latino%20ChileBT.mp4
