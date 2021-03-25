@@ -1,5 +1,24 @@
 #EXTM3U 
 
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gOn12DehCCeeIsLW9gH1WENWUjj.jpg" group-title="Infantiles", Ratatouille
+http://51.77.66.14/07-Pixar/Ratatouille.(2007)/Ratatouille.(2007).mkv
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg" group-title="Infantiles", Cars
+http://m0478.contaboserver.net/Bryan/pelisdisney/cars%201.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/szaaEaRQEqvZoyBIppNIRRhtfSV.jpg" group-title="Infantiles", Cars 2
+http://m0478.contaboserver.net/Bryan/pelisdisney/cars%202.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ucGU1HyLfxoQwuq22VWwq55m0cH.jpg" group-title="Infantiles", Cars 3
+http://m0478.contaboserver.net/Bryan/pelisdisney/cars3.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg" group-title="Infantiles", Moana
+http://m0478.contaboserver.net/Bryan/pelisdisney/Ver%20Moana-%20Un%20Mar%20de%20Aventuras%20(2016)%20Online%20Latino%20HD%20-%20PELISPLUS.MP4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kRN9FCa5dQ0niViuCwHSs5fJWqt.jpg" group-title="Infantiles", Un Gran Dinosaurio
+http://m0478.contaboserver.net/Bryan/pelisdisney/un%20gran%20dinosaurio.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9LRFNLthb0jfWC0HUDUWjYgpP9F.jpg" group-title="Infantiles", Zootopia
+http://m0478.contaboserver.net/Bryan/pelisdisney/Ver%20Pelicula%20Zootopia%20Online%20Gratis.MP4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vSdpOU6rDK7IpmOD7iAvlZdMUCc.jpg" group-title="Infantiles", UP una Aventura de Altura
+http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Up,%20una%20Aventura%20de%20Altura%20Online%20Gratis.MP4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cTXHRoiKnuNdLRy4qn7JhQXHZO0.jpg" group-title="Infantiles", Intensamente
+http://193.34.144.178/Bryan/pelisdisney/intensamente.mp4
+
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg" group-title="Infantiles", Trolls 2
 http://201.172.61.81:85/peliculas/Ni%c3%b1os/Trolls.2.2020.BDrip.60FPS.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5nDbnZ9UssqVoVRggQOb2icL9Pb.jpg" group-title="Infantiles", Trolls
