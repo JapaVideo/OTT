@@ -1,5 +1,6 @@
 #EXTM3U 
-
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/67ZrxjUEXPObtc2D5BDAjsXrnnR.jpg" group-title="Infantiles", Raya y el Ultimo Dragon
+https://cdn.lbryplayer.xyz/api/v4/streams/free/ClipRayaYElUltimoDragon/5a117952448d646a12d2dbef3461d5d4da05a84f/d9228d
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gOn12DehCCeeIsLW9gH1WENWUjj.jpg" group-title="Infantiles", Ratatouille
 http://51.77.66.14/07-Pixar/Ratatouille.(2007)/Ratatouille.(2007).mkv
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg" group-title="Infantiles", Cars
