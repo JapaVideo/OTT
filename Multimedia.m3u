@@ -1,95 +1,141 @@
 #EXTM3U 
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mXM24pzpmC4CNfqprYv4ubX1O0y.jpg" group-title="Infantiles", Mi Villano Favorito 3
-https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%203.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/lWNrQj6t2bnqdQcEjkIDTaFQIHi.jpg" group-title="Infantiles", Mi Villano Favorito 2
-https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%202.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9WropUZ12AKIgtn2v8d5xef2IW9.jpg" group-title="Infantiles", Mi Villano Favorito
-https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%201.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eM7ZXprZaw0bE6iiIrTBJVcKbo7.jpg" group-title="Infantiles", Los Minions
-https://storage.googleapis.com/peliculasmoviesdayplay/Los%20minions.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9ZMKx0yjRLt5SnqJ4DKcZlQGjL0.jpg" group-title="Infantiles", Ralph Wi-Fi
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Ralph%20wifi.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qVl5wCqPPKLCFlBiURhBSTWjLSH.jpg" group-title="Infantiles", Ralph el Demoledor
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Ralph%20el%20demoledor.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4jiwsh6i9DeguL4iRgQkpkP7m11.jpg" group-title="Infantiles", Onward
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Unidos.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg" group-title="Infantiles", Grandes Heroes
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Grandes%20heroes.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="Infantiles", Frozen 2
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Frozen%202.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8TEsWQbWxMKj8eir8COWfw2HYyC.jpg" group-title="Infantiles", Frozen
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Frozen.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg" group-title="Infantiles", Bolt
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Bolt.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/sCDOjkuPowFvTiUfi3vKwXdFqc6.jpg" group-title="Infantiles", Bichos
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Bichos.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jbqWAQOFo1LZTIG6rzlRFkZlIH5.jpg" group-title="Infantiles", Monster University
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Monsters%20University.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jTE3BLVCpYaR71L2U8SHV22HvEr.jpg" group-title="Infantiles", Monster Inc
-https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Monsters%20inc..mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gj0BpRmZ58BgYsk1nXEqui394Qv.jpg" group-title="Peliculas Marvel", Ant-Man
+https://storage.googleapis.com/peliculasmoviesdayplay/Ant%20man%20el%20hombre%20hormiga.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yk2gpGHkbnyjLSxmhH2rEXTaeeB.jpg" group-title="Peliculas Marvel", Ant-Man and the Wasp
+https://storage.googleapis.com/peliculasmoviesdayplay/Ant%20man%20y%20la%20avispa.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cWNIua1iPA4kGyQxJGvnx7UIzoT.jpg" group-title="Peliculas Marvel", Avengers
+https://storage.googleapis.com/peliculasmoviesdayplay/Avengers.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/y6bU2c73K9PeZtLaTAuAIw0FfZg.jpg" group-title="Peliculas Marvel", Avengers la Era de Ultron
+https://storage.googleapis.com/peliculasmoviesdayplay/Avengers%20la%20era%20de%20ultron.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/r3c3lBaMtgsrk0CsgQsWRxzuSML.jpg" group-title="Peliculas Marvel", Avengers Infinity War
+https://storage.googleapis.com/peliculasmoviesdayplay/Avengers%20infinity%20war.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg" group-title="Peliculas Marvel", Avengers End Game
+https://storage.googleapis.com/peliculasmoviesdayplay/Avengers%20end%20game.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fwqAK9Vlh14mWMX3GNMi11P8XR4.jpg" group-title="Peliculas Marvel", Capitan America Civil War
+https://storage.googleapis.com/peliculasmoviesdayplay/Capitan%20america%20civil%20war.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aCMNSj332pjLVNf2SfnX0w7JL74.jpg" group-title="Peliculas Marvel", Capitan America el Primer Vengador
+https://storage.googleapis.com/peliculasmoviesdayplay/Capitan%20america%20primer%20vengador.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6QBRnyvJHD7slOlX6aukvMwcEu.jpg" group-title="Peliculas Marvel", Capina America el Soldado del Invierno
+https://storage.googleapis.com/peliculasmoviesdayplay/Capitan%20america%20y%20el%20soldado%20del%20invierno.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d3p5JuwN7dG0TvrN5h4ZY4tMOEX.jpg" group-title="Peliculas Marvel", Capitana Marvel
+https://storage.googleapis.com/peliculasmoviesdayplay/Capitana%20marvel.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3rXBhCl5jhU5rRlpJxRBH1SMCUb.jpg" group-title="Peliculas Marvel", Doctor Strange
+https://storage.googleapis.com/peliculasmoviesdayplay/Doctor%20Strange.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/lGR9yjcPctrIxNrnGBiXlEbM6nT.jpg" group-title="Peliculas Marvel", Guardianes de la Galaxia Vol.1
+https://storage.googleapis.com/peliculasmoviesdayplay/Guardianes%20de%20la%20galaxia%201.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="Peliculas Marvel", Guardianes de la Galaxia Vol.2
+https://storage.googleapis.com/peliculasmoviesdayplay/Guardianes%20de%20la%20galaxia%202.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg" group-title="Peliculas Marvel", El Increible Hulk
+https://storage.googleapis.com/peliculasmoviesdayplay/Hulk%20el%20hombre%20increible.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8tZ1KaRTGfIGtfowZRWa9I71qbU.jpg" group-title="Peliculas Marvel", Iron Man el Hombre de Hierro
+https://storage.googleapis.com/peliculasmoviesdayplay/Iron%20man.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/p5LXVALvoTZA5cmxjOmjJBGtWfQ.jpg" group-title="Peliculas Marvel", Iron Man 2
+https://storage.googleapis.com/peliculasmoviesdayplay/Iron%20man%202.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg" group-title="Peliculas Marvel", Iron Man 3
+https://storage.googleapis.com/peliculasmoviesdayplay/Iron%20man%203.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8TjvIO8ZJPKrMKXEjOVGNSzuO6q.jpg" group-title="Peliculas Marvel", Black Panther
+https://storage.googleapis.com/peliculasmoviesdayplay/Pantera%20negra.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/81qIJbnS2L0rUAAB55G8CZODpS5.jpg" group-title="Peliculas Marvel", Spiderman de Regreso a Casa
+https://storage.googleapis.com/peliculasmoviesdayplay/spider%20man%20de%20regreso%20a%20casa.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/o59zDVJDIehGcWZsMUGU5SN0V0D.jpg" group-title="Peliculas Marvel", Spider Man  Lejos de Casa
+https://storage.googleapis.com/peliculasmoviesdayplay/spider%20man%20lejos%20de%20casa.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mfjJLZK9JvflsKM3gVMnX7QJzKJ.jpg" group-title="Peliculas Marvel", Thor
+https://storage.googleapis.com/peliculasmoviesdayplay/Thor.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" group-title="Peliculas Marvel", Thor Ragnarok
+https://storage.googleapis.com/peliculasmoviesdayplay/Thor%20Ragnarok.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" group-title="Peliculas Marvel", Thor un Mundo Oscuro
+#EXTINF:0, tvg-logo="" group-title="Marvel", 
 
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yMoMlJo2msoVwmuf6k1C78MrB3H.jpg" group-title="Infantiles", Tom y Jerry
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mXM24pzpmC4CNfqprYv4ubX1O0y.jpg" group-title="Peliculas Infantiles", Mi Villano Favorito 3
+https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%203.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/lWNrQj6t2bnqdQcEjkIDTaFQIHi.jpg" group-title="Peliculas Infantiles", Mi Villano Favorito 2
+https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%202.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9WropUZ12AKIgtn2v8d5xef2IW9.jpg" group-title="Peliculas Infantiles", Mi Villano Favorito
+https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%201.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eM7ZXprZaw0bE6iiIrTBJVcKbo7.jpg" group-title="Peliculas Infantiles", Los Minions
+https://storage.googleapis.com/peliculasmoviesdayplay/Los%20minions.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9ZMKx0yjRLt5SnqJ4DKcZlQGjL0.jpg" group-title="Peliculas Infantiles", Ralph Wi-Fi
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Ralph%20wifi.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qVl5wCqPPKLCFlBiURhBSTWjLSH.jpg" group-title="Peliculas Infantiles", Ralph el Demoledor
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Ralph%20el%20demoledor.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4jiwsh6i9DeguL4iRgQkpkP7m11.jpg" group-title="Peliculas Infantiles", Onward
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Unidos.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qVU0ag4i5BCmH5h4o04cdvUo0Zf.jpg" group-title="Peliculas Infantiles", Grandes Heroes
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Grandes%20heroes.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jnFCk7qGGWop2DgfnJXeKLZFuBq.jpg" group-title="Peliculas Infantiles", Frozen 2
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Frozen%202.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8TEsWQbWxMKj8eir8COWfw2HYyC.jpg" group-title="Peliculas Infantiles", Frozen
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Frozen.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg" group-title="Peliculas Infantiles", Bolt
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Bolt.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/sCDOjkuPowFvTiUfi3vKwXdFqc6.jpg" group-title="Peliculas Infantiles", Bichos
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Bichos.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jbqWAQOFo1LZTIG6rzlRFkZlIH5.jpg" group-title="Peliculas Infantiles", Monster University
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Monsters%20University.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jTE3BLVCpYaR71L2U8SHV22HvEr.jpg" group-title="Peliculas Infantiles", Monster Inc
+https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Monsters%20inc..mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yMoMlJo2msoVwmuf6k1C78MrB3H.jpg" group-title="Peliculas Infantiles", Tom y Jerry
 http://201.172.61.203:88/Peliculas/Febrero/Tom%20y%20Jerry%20(2021)%20HMAX%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/67ZrxjUEXPObtc2D5BDAjsXrnnR.jpg" group-title="Infantiles", Raya y el Ultimo Dragon
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/67ZrxjUEXPObtc2D5BDAjsXrnnR.jpg" group-title="Peliculas Infantiles", Raya y el Ultimo Dragon
 https://cdn.lbryplayer.xyz/api/v4/streams/free/ClipRayaYElUltimoDragon/5a117952448d646a12d2dbef3461d5d4da05a84f/d9228d
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gOn12DehCCeeIsLW9gH1WENWUjj.jpg" group-title="Infantiles", Ratatouille
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gOn12DehCCeeIsLW9gH1WENWUjj.jpg" group-title="Peliculas Infantiles", Ratatouille
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Ratatouille.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg" group-title="Infantiles", Cars
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg" group-title="Peliculas Infantiles", Cars
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Cars.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/szaaEaRQEqvZoyBIppNIRRhtfSV.jpg" group-title="Infantiles", Cars 2
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/szaaEaRQEqvZoyBIppNIRRhtfSV.jpg" group-title="Peliculas Infantiles", Cars 2
 http://m0478.contaboserver.net/Bryan/pelisdisney/cars%202.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ucGU1HyLfxoQwuq22VWwq55m0cH.jpg" group-title="Infantiles", Cars 3
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ucGU1HyLfxoQwuq22VWwq55m0cH.jpg" group-title="Peliculas Infantiles", Cars 3
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Cars%203.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg" group-title="Infantiles", Moana
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hw4FlDdufQuLIsYiqBYIL0Bxn26.jpg" group-title="Peliculas Infantiles", Moana
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Moana.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kRN9FCa5dQ0niViuCwHSs5fJWqt.jpg" group-title="Infantiles", Un Gran Dinosaurio
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kRN9FCa5dQ0niViuCwHSs5fJWqt.jpg" group-title="Peliculas Infantiles", Un Gran Dinosaurio
 http://m0478.contaboserver.net/Bryan/pelisdisney/un%20gran%20dinosaurio.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9LRFNLthb0jfWC0HUDUWjYgpP9F.jpg" group-title="Infantiles", Zootopia
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9LRFNLthb0jfWC0HUDUWjYgpP9F.jpg" group-title="Peliculas Infantiles", Zootopia
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Zootopia.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vSdpOU6rDK7IpmOD7iAvlZdMUCc.jpg" group-title="Infantiles", UP una Aventura de Altura
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/vSdpOU6rDK7IpmOD7iAvlZdMUCc.jpg" group-title="Peliculas Infantiles", UP una Aventura de Altura
 http://193.34.144.178/Bryan/pelisdisney/Ver%20Pelicula%20Up,%20una%20Aventura%20de%20Altura%20Online%20Gratis.MP4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cTXHRoiKnuNdLRy4qn7JhQXHZO0.jpg" group-title="Infantiles", Intensamente
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cTXHRoiKnuNdLRy4qn7JhQXHZO0.jpg" group-title="Peliculas Infantiles", Intensamente
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Intensamente.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg" group-title="Infantiles", Trolls 2
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg" group-title="Peliculas Infantiles", Trolls 2
 http://201.172.61.81:85/peliculas/Ni%c3%b1os/Trolls.2.2020.BDrip.60FPS.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5nDbnZ9UssqVoVRggQOb2icL9Pb.jpg" group-title="Infantiles", Trolls
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5nDbnZ9UssqVoVRggQOb2icL9Pb.jpg" group-title="Peliculas Infantiles", Trolls
 http://201.172.61.81:85/peliculas/Ni%c3%b1os/Trolls.2016.4K.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/GdMDcacJra4ZmDaBIRASIpzjmU.jpg" group-title="Infantiles", Toy Story
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/GdMDcacJra4ZmDaBIRASIpzjmU.jpg" group-title="Peliculas Infantiles", Toy Story
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Toy%20story.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eVGu0zsezaSCuN67zgNhzjeNI9Z.jpg" group-title="Infantiles", Toy Story 2
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eVGu0zsezaSCuN67zgNhzjeNI9Z.jpg" group-title="Peliculas Infantiles", Toy Story 2
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Toy%20Story%202.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4cpGytCB0eqvRks4FAlJoUJiFPG.jpg" group-title="Infantiles", Toy Story 3
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4cpGytCB0eqvRks4FAlJoUJiFPG.jpg" group-title="Peliculas Infantiles", Toy Story 3
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Toy%20story%203.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg" group-title="Infantiles", Toy Story 4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yF1vPDuHVrAUMX5dy1tVMbAjkEL.jpg" group-title="Peliculas Infantiles", Toy Story 4
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Toy%20story%204.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jPhak722pNGxQIXSEfeWIUqBrO5.jpg" group-title="Infantiles", Buscando a Nemo
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jPhak722pNGxQIXSEfeWIUqBrO5.jpg" group-title="Peliculas Infantiles", Buscando a Nemo
 http://51.77.66.14/07-Pixar/Buscando.a.Nemo/Buscando.a.Nemo.mkv
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg" group-title="Infantiles", Coco
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg" group-title="Peliculas Infantiles", Coco
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Coco.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6yvnEd5KqU7r3gjUMOGtFwYRcJp.jpg" group-title="Infantiles", Increibles
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6yvnEd5KqU7r3gjUMOGtFwYRcJp.jpg" group-title="Peliculas Infantiles", Increibles
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Los%20increibles.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/iNIKq8r155eRFlsoaxgfRYs71qY.jpg" group-title="Infantiles", Increibles 2
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/iNIKq8r155eRFlsoaxgfRYs71qY.jpg" group-title="Peliculas Infantiles", Increibles 2
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Los%20increibles%202.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg" group-title="Infantiles", Buscando a Dory
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg" group-title="Peliculas Infantiles", Buscando a Dory
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Buscando%20a%20dory.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg" group-title="Infantiles", Wall-e
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg" group-title="Peliculas Infantiles", Wall-e
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/wall-e.mp4
 
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Ciencia Ficcion",1° Harry Potter y la Piedra Filosofal
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y la Piedra Filosofal
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.and.the.Sorcerers.Stone.2001%201080p%20Latino%20ChileBT.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="Ciencia Ficcion",2° Harry Potter y la Camara Secreta
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y la Camara Secreta
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.and.the.Chamber.of.Secrets.2002%201080p%20Latino%20ChileBT.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg" group-title="Ciencia Ficcion",3° Harry Potter y el Prisionero de Azkaban
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y el Prisionero de Azkaban
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.and.the.Prisoner.of.Azkaban.2004%201080p%20Latino%20ChileBT.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg" group-title="Ciencia Ficcion",6° Harry Potter y el Misterio del Principe
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y el Misterio del Principe
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.and.the.Half.Blood.Prince.2009%201080p%20Latino%20ChileBT.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" group-title="Ciencia Ficcion",4° Harry Potter y el Caliz de Fuego
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y el Caliz de Fuego
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.and.the.Goblet.of.Fire.2005%201080p%20Latino%20ChileBT.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg" group-title="Ciencia Ficcion",5° Harry Potter y la Orden del Fenix
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y la Orden del Fenix
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.and.the.Order.of.the.Phoenix.2007%201080p%20Latino%20ChileBT.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" group-title="Ciencia Ficcion",7° Harry Potter y las Reliquias de la Muerte P1
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y las Reliquias de la Muerte P1
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.And.The.Deathly.Hallows.Part.1.2010%201080p%20Latino%20ChileBT.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="Ciencia Ficcion",7° Harry Potter y las Reliquias de la Muerte P2
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y las Reliquias de la Muerte P2
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.And.The.Deathly.Hallows.Part.2.2011%201080p%20Latino%20ChileBT.mp4
 
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bFTmoRxnptZ3W1XjlfJSD2dHnl.jpg" group-title="Los Pitufos", Los Pitufos S01/01
