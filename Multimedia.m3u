@@ -1423,3 +1423,11 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505132-8c.png" group-title="Canales TV", VH1 MX
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zmqFnKeUuu.png" group-title="Radio", El Fonografo
+https://17593.live.streamtheworld.com/XEJP_AMAAC_SC?dist=tg&pname=TDSdk
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b2NDNZ4KSx.png" group-title="Radio", 100 Hits
+http://69.4.234.186:9070/
+
