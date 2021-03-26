@@ -1,4 +1,50 @@
 #EXTM3U 
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso", Annabelle
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/Annabelle.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" Annabelle la Creacion
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/Annabelle%202.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" Annabelle Vuelve a Casa
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/Annabelle%203.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" El Conjuro
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/El%20Conjuro.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" El Conjuro 2
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/El%20conjuro%202.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" IT Capitulo 1
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/It.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" IT Capitulo 2
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/It%202.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" La Huerfana
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/La%20huerfana.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" Las Brujas
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/Las%20brujas.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" Cuando las luces se apagan
+https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/Cuando%20las%20luces%20se%20apagan.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" Un Lugar en Silencio
+https://storage.googleapis.com/peliculasmoviesdayplay/1Paramount/Un%20lugar%20en%20silencio.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" Hansel y Gretel
+https://storage.googleapis.com/peliculasmoviesdayplay/1Paramount/Hansel%20y%20gretel.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" Cementerio Maldito
+https://storage.googleapis.com/peliculasmoviesdayplay/1Paramount/Cementerio%20maldito.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" La Visita
+https://storage.googleapis.com/peliculasmoviesdayplay/La%20visita.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" La Noche de la Expiacion
+https://storage.googleapis.com/peliculasmoviesdayplay/La%20noche%20de%20la%20expiaci%C3%B3n.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso" El Hombre Imbisible
+https://storage.googleapis.com/peliculasmoviesdayplay/El%20hombre%20invisible.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso"
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso"
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso"
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso"
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso"
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso"
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso"
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo-Suspenso"
+
+
+
+
+--------------------Marvel-----------------------------
+
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gj0BpRmZ58BgYsk1nXEqui394Qv.jpg" group-title="Peliculas Marvel", Ant-Man
 https://storage.googleapis.com/peliculasmoviesdayplay/Ant%20man%20el%20hombre%20hormiga.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yk2gpGHkbnyjLSxmhH2rEXTaeeB.jpg" group-title="Peliculas Marvel", Ant-Man and the Wasp
@@ -44,7 +90,8 @@ https://storage.googleapis.com/peliculasmoviesdayplay/Thor.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pGtkLdk4rnF2A3Yz2BHiTgRwMU4.jpg" group-title="Peliculas Marvel", Thor Ragnarok
 https://storage.googleapis.com/peliculasmoviesdayplay/Thor%20Ragnarok.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg" group-title="Peliculas Marvel", Thor un Mundo Oscuro
-#EXTINF:0, tvg-logo="" group-title="Marvel", 
+
+--------------------Infantiles-----------------------------
 
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mXM24pzpmC4CNfqprYv4ubX1O0y.jpg" group-title="Peliculas Infantiles", Mi Villano Favorito 3
 https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%203.mp4
@@ -120,6 +167,8 @@ https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Los%20increib
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/Buscando%20a%20dory.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg" group-title="Peliculas Infantiles", Wall-e
 https://storage.googleapis.com/peliculasmoviesdayplay/1DisneyPixar/wall-e.mp4
+
+--------------------Ciencia Ficcion--------------------------------------------
 
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y la Piedra Filosofal
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.and.the.Sorcerers.Stone.2001%201080p%20Latino%20ChileBT.mp4
