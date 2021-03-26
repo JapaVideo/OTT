@@ -141,8 +141,10 @@ http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATI
 http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Tarzan%20(1999)%20HD%201080p%20LATINO/Tarzan%20(1999)%20HD%201080p%20LATINO.mkv
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6kGf1Nm99GKtyOCrxmNs6thHmdW.jpg" group-title="Peliculas Infantiles", Tierra de Osos
 http://51.77.66.14/Pack%20Peliculas%20de%20Disney%20HD%201080p%20y%20720p%20LATINO/Tierra%20de%20Osos%20(2003)%201080p%20LATINO/Tierra%20de%20Osos%20(2003)%201080p%20LATINO.mkv
-#EXTINF:0, tvg-logo="" group-title="Peliculas Infantiles",
-#EXTINF:0, tvg-logo="" group-title="Peliculas Infantiles",
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5uMWKEmegf5aTJnp1u98JF4QerP.jpg" group-title="Peliculas Infantiles", Los Croods 2
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Los-Croods-2/3cbfa090f8565f525c5471259ea595a5e562b647/ad1ff3
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aKFZWGYnSNc32zeaAh4JlKNP8X4.jpg" group-title="Peliculas Infantiles", Los Croods
+https://cdn.lbryplayer.xyz/api/v4/streams/free/Los-Croods-1---Una-aventura-prehistorica./6426a36be2c56a1b986ad6983e6786d109309b10/8595bb
 #EXTINF:0, tvg-logo="" group-title="Peliculas Infantiles",
 #EXTINF:0, tvg-logo="" group-title="Peliculas Infantiles",
 
