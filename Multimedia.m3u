@@ -283,6 +283,17 @@ http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Pot
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="Peliculas Ciencia Ficcion", Harry Potter y las Reliquias de la Muerte P2
 http://51.77.66.14/Saga%20%20Harry%20Potter%201080p%20Latino%20ChileBT/Harry.Potter.And.The.Deathly.Hallows.Part.2.2011%201080p%20Latino%20ChileBT.mp4
 
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/01
+http://201.172.61.81:85/series/Enero/Chernobyl/01.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/02
+http://201.172.61.81:85/series/Enero/Chernobyl/02.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/03
+http://201.172.61.81:85/series/Enero/Chernobyl/03.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/04
+http://201.172.61.81:85/series/Enero/Chernobyl/04.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/05
+http://201.172.61.81:85/series/Enero/Chernobyl/05.mp4
+
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aLAGnSe7XCTTIXHlsbkTbtLEjG3.jpg" group-title="Series Los Picapiedras", Los Picapiedras S01/01
 http://201.172.61.81:85/series/Caricaturas/Picapiedras/Los%20Picapiedra%20Temporada%201/Los%20Picapiedra%20Temporada%201/01.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aLAGnSe7XCTTIXHlsbkTbtLEjG3.jpg" group-title="Series Los Picapiedras", Los Picapiedras S01/02
@@ -1803,22 +1814,6 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505132-8c.png" group-title="Canales TV", VH1 MX
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
-
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/01
-http://201.172.61.81:85/series/Enero/Chernobyl/01.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/02
-http://201.172.61.81:85/series/Enero/Chernobyl/02.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/03
-http://201.172.61.81:85/series/Enero/Chernobyl/03.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/04
-http://201.172.61.81:85/series/Enero/Chernobyl/04.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/05
-http://201.172.61.81:85/series/Enero/Chernobyl/05.mp4
-
-
-
-
-
 
 #EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zmqFnKeUuu.png" group-title="Radio", El Fonografo
 https://17593.live.streamtheworld.com/XEJP_AMAAC_SC?dist=tg&pname=TDSdk
