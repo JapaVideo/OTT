@@ -282,7 +282,8 @@ http://201.172.61.81:85/peliculas/4K/*Artemis.Fowl.2020.mp4
 -----------------------------------------Comedia----------------------------------------------------
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pINc2C1unN9PgWKZmJ6PYVRSpwf.jpg" group-title="Peliculas Comedia", The Swing of Things
 http://201.172.61.81:85/peliculas/4K/*The.Swing..Things.2020e.mp4
-#EXTINF:0, tvg-logo="" group-title="Peliculas Comedia", 
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6wHfR1djFDz8Rgy2M7CWl5qHnHH.jpg" group-title="Peliculas Comedia", Mujer Bonita
+https://archive.org/download/mujer-bonita/Mujer%20Bonita.mp4
 #EXTINF:0, tvg-logo="" group-title="Peliculas Comedia", 
 #EXTINF:0, tvg-logo="" group-title="Peliculas Comedia", 
 #EXTINF:0, tvg-logo="" group-title="Peliculas Comedia", 
