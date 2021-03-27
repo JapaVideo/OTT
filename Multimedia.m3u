@@ -1804,6 +1804,20 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
 
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/01
+http://201.172.61.81:85/series/Enero/Chernobyl/01.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/02
+http://201.172.61.81:85/series/Enero/Chernobyl/02.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/03
+http://201.172.61.81:85/series/Enero/Chernobyl/03.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/04
+http://201.172.61.81:85/series/Enero/Chernobyl/04.mp4
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg" group-title="Series Chernobyl", Chernobyl S01/05
+http://201.172.61.81:85/series/Enero/Chernobyl/05.mp4
+
+
+
+
 
 
 #EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zmqFnKeUuu.png" group-title="Radio", El Fonografo
