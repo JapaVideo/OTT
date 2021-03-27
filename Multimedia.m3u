@@ -282,8 +282,6 @@ http://201.172.61.81:85/peliculas/4K/*Artemis.Fowl.2020.mp4
 -----------------------------------------Comedia----------------------------------------------------
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pINc2C1unN9PgWKZmJ6PYVRSpwf.jpg" group-title="Peliculas Comedia", The Swing of Things
 http://201.172.61.81:85/peliculas/4K/*The.Swing..Things.2020e.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6wHfR1djFDz8Rgy2M7CWl5qHnHH.jpg" group-title="Peliculas Comedia", Mujer Bonita
-https://archive.org/download/mujer-bonita/Mujer%20Bonita.mp4
 #EXTINF:0, tvg-logo="" group-title="Peliculas Comedia", 
 #EXTINF:0, tvg-logo="" group-title="Peliculas Comedia", 
 #EXTINF:0, tvg-logo="" group-title="Peliculas Comedia", 
@@ -307,7 +305,9 @@ http://201.172.61.81:85/peliculas/4K/*El.stand.de.los.besos.2018.4k.mp4
 http://201.172.61.81:85/peliculas/octubre/*Mujercitas.2019.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/csH6GfdO8TI6M6W5U0PChtRBpvC.jpg" group-title="Peliculas Romance", Mentiras Peligrosas
 http://201.172.61.81:85/peliculas/octubre/*Mentiras.Peligrosas.2020.NF.mp4
-#EXTINF:0, tvg-logo="" group-title="Peliculas Romance", Violet y Finch
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6wHfR1djFDz8Rgy2M7CWl5qHnHH.jpg" group-title="Peliculas Romance", Mujer Bonita
+https://archive.org/download/mujer-bonita/Mujer%20Bonita.mp4
+#EXTINF:0, tvg-logo="" group-title="Peliculas Romance", 
 #EXTINF:0, tvg-logo="" group-title="Peliculas Romance", 
 #EXTINF:0, tvg-logo="" group-title="Peliculas Romance", 
 #EXTINF:0, tvg-logo="" group-title="Peliculas Romance", 
