@@ -33,8 +33,7 @@ https://storage.googleapis.com/peliculasmoviesdayplay/La%20noche%20de%20la%20exp
 https://storage.googleapis.com/peliculasmoviesdayplay/El%20hombre%20invisible.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5hmaACPJfI2M0v38DeltW3dSggT.jpg" group-title="Peliculas Miedo/Suspenso", Miedo a la Lluvia
 https://archive.org/download/youmovie_20210322/Miedo%20a%20la%20lluvia%20%282021%29.mp4
-#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo/Suspenso", Ghyf
-https://cdn.oldskull.net/wp-content/uploads/2019/08/6-gifs-animados-dvdp-oldskull-.gif
+#EXTINF:0, tvg-logo="" group-title="Peliculas Miedo/Suspenso", 
 #EXTINF:0, tvg-logo="" group-title="Peliculas Miedo/Suspenso",
 #EXTINF:0, tvg-logo="" group-title="Peliculas Miedo/Suspenso",
 #EXTINF:0, tvg-logo="" group-title="Peliculas Miedo/Suspenso",
@@ -2087,6 +2086,8 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/chunklist_w1238302180.m3u
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425386-8c.png" group-title="Canales TV", Fox Sports3
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+#EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="Canales TV", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1, tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="Canales TV", Top Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png" group-title="Canales TV", HBO 
@@ -2123,8 +2124,26 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zmqFnKeUuu.png" group-title="Radio", El Fonografo
+#EXTINF:-1, tvg-logo="https://elfonografo.mx/wp-content/themes/fonografo/images/bg/logo.png" group-title="Radio", El Fonografo
 https://17593.live.streamtheworld.com/XEJP_AMAAC_SC?dist=tg&pname=TDSdk
-#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/b2NDNZ4KSx.png" group-title="Radio", 100 Hits
+#EXTINF:-1, tvg-logo="https://www.radio-home.net/logos/open%20fm%20100%20hits.png" group-title="Radio", 100 Hits
 http://69.4.234.186:9070/
+#EXTINF:-1, tvg-logo="" group-title="Radio",
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="" group-title="Radio", 
+
+
 
