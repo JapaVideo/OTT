@@ -23,7 +23,7 @@ https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/Cuando%20las%
 https://storage.googleapis.com/peliculasmoviesdayplay/1Paramount/Un%20lugar%20en%20silencio.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/xI2NYRRybxztFvvOdf5ZmOfiML6.jpg" group-title="Peliculas Miedo/Suspenso", Hansel y Gretel
 https://storage.googleapis.com/peliculasmoviesdayplay/1Paramount/Hansel%20y%20gretel.mp4
-#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ynJs6Cio8jOimx7A0G3w1iqfRcY.jpg" group-title="Peliculas Miedo/Suspenso", Cementerio Maldito
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ynJs6Cio8jOimx7A0G3w1iqfRcY.jpg" group-title="Peliculas Miedo/Suspenso", CementerFio Maldito
 https://storage.googleapis.com/peliculasmoviesdayplay/1Paramount/Cementerio%20maldito.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/eRxjQO4RqTNpYIHtJ0YD3tXsfPy.jpg" group-title="Peliculas Miedo/Suspenso", La Visita
 https://storage.googleapis.com/peliculasmoviesdayplay/La%20visita.mp4
@@ -168,8 +168,6 @@ http://24.138.249.6/Peliculas/Peliculas%20Infatiles%20Esp/The%20Secret%20Life%20
 http://24.138.249.6/Peliculas/Peliculas%20Infatiles%20Esp/Hotel%20Transylvania%20(2012).mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg" group-title="Peliculas Infantiles", Hotel Transilvania 2
 http://24.138.249.6/Peliculas/Peliculas%20Infatiles%20Esp/Hotel%20Transylvania%202%20(2015).mp4
-#EXTINF:0, tvg-logo="" group-title="Peliculas Infantiles", 
-
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/mXM24pzpmC4CNfqprYv4ubX1O0y.jpg" group-title="Peliculas Infantiles", Mi Villano Favorito 3
 https://storage.googleapis.com/peliculasmoviesdayplay/Mi%20villano%20favorito%203.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/lWNrQj6t2bnqdQcEjkIDTaFQIHi.jpg" group-title="Peliculas Infantiles", Mi Villano Favorito 2
