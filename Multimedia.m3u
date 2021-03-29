@@ -1036,26 +1036,42 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
 
-#EXTINF:-1, tvg-logo="https://elfonografo.mx/wp-content/themes/fonografo/images/bg/logo.png" group-title="Radio", El Fonografo
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zmqFnKeUuu.png" group-title="Radio", El Fonografo
 https://17593.live.streamtheworld.com/XEJP_AMAAC_SC?dist=tg&pname=TDSdk
-#EXTINF:-1, tvg-logo="https://www.radio-home.net/logos/open%20fm%20100%20hits.png" group-title="Radio", 100 Hits
-http://69.4.234.186:9070/
-#EXTINF:-1, tvg-logo="" group-title="Radio",
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
-#EXTINF:-1, tvg-logo="" group-title="Radio", 
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/B2eyugprMp.png" group-title="Radio", La Ke Buena
+https://14933.live.streamtheworld.com/KEBUENAAAC_SC
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kgx3cbzkaesd.png" group-title="Radio", Cumbias 
+https://panel.retrolandigital.com:8120/listen
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FTYurSV9nR.png" group-title="Radio", La Ranchera
+https://live.zuperdns.net/1006/stream/;stream.mp3
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7wZJjLtNZY.png" group-title="Radio", Radio Ranchito
+https://streamingcwsradio30.com:7005/stream.mp3
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/u84gSRYAN8.png" group-title="Radio", Sabrosita
+https://18163.live.streamtheworld.com/XEPHAMAAC_SC?pname=TDSdk
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8z2stvnfxzfa.jpg" group-title="Radio", Los 40
+https://16613.live.streamtheworld.com/LOS40_MEXICOAAC_SC
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg" group-title="Radio", Amor
+https://18443.live.streamtheworld.com/XHSHFMAAC_SC
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/azuxm5stfyca.png" group-title="Radio", Classic Rock 
+http://167.114.64.181:8352/;
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/e52wtsaqzucp.png" group-title="Radio", 100 Hits
+http://206.217.213.236:9170/
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k7hGvfSnur.jpg" group-title="Radio", Loca Urban
+https://locafm-live3.flumotion.com/locafm/live3.mp3
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/da8ze4jb5wfa.jpg" group-title="Radio", Radio Bachata
+http://perseus.shoutca.st:8312/;stream/1
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/huKdA6Qdbv.png" group-title="Radio", Radio Latina
+https://15383.live.streamtheworld.com/XLTNFM_SC
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KErGnp6EeB.png" group-title="Radio", Cafe Romantico
+https://panel.retrolandigital.com:8110/listen
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3mcjUGcbrc.jpg" group-title="Radio", Radio Felicidad
+https://18513.live.streamtheworld.com/XEFRAMAAC_SC
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qaqsaxwc6xxa.jpg" group-title="Radio", Cumbia Mix
+https://node-28.zeno.fm/xpe0b2f42mzuv?rj-ttl=5&rj-tok=AAABeH1gOy4Ace5ZpHLLX5661A
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/puejcfznnutv.webp" group-title="Radio", Fogonera
+http://66.70.249.70:5276/;
+#EXTINF:-1, tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kgthjkgma5vf.jpg" group-title="Radio", ON Rock
+https://0n-rock.radionetz.de/0n-rock.aac
 
 
 
