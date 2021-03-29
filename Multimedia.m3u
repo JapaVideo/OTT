@@ -1,7 +1,51 @@
 #EXTM3U 
 
-#EXTINF:-1, tvg-logo="https://elbayabuyiba.files.wordpress.com/2016/08/50-clasicos.png" group-title="24/7 Series Movies ", 24/7 Clásicos Disney 
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4ir7syhh1231e2Z0zqiz45cdw0i.jpg" group-title="24/7", Clásicos Disney 
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/4859
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gfuFQ7c4ZzapKF5K2V3PdY8qHpR.jpg" group-title="24/7", ALF
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/1981
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dAfgwXs9HCEDnzPpBHVyrUeb8xi.jpg" group-title="24/7", Bob Esponja
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/1816
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/sVHs1XFdXbFl9GznwKHw2iSgq2e.jpg" group-title="24/7", Drake y Josh
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/4844
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dNxEEK5CdNQbp4YcEtICXelRqvP.jpg" group-title="24/7", Gravity Falls
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/2598
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/aLAGnSe7XCTTIXHlsbkTbtLEjG3.jpg" group-title="24/7", Los Picapiedra
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/5677
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/l5BdEAImOhwuUWv1xKnHt9kgcf0.jpg" group-title="24/7", Malcolm In The Middle
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/4118
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3YJoBPZksWQZXX43YTIxvCNoZCu.jpg" group-title="24/7", Series Animadas
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/1982
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="24/7", Los Padrinos Magicos
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/4846
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/zZuQ4RHiy52r6EyXOT4AwmBroZQ.jpg" group-title="24/7", Looney Tunes
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/10724
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2IWouZK4gkgHhJa3oyYuSWfSqbG.jpg" group-title="24/7", Los Simpson T01-T10
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/1817
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qcr9bBY6MVeLzriKCmJOv1562uY.jpg" group-title="24/7", Los Simpson T11-T20
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/1819
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg" group-title="24/7", Los Simpson T21-T30
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/3936
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qvU9XicAzIGx4ZMRHBWC3VrUPkR.jpg" group-title="24/7", Los Hechiceros de Waverly Place
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/1801
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/cHFZA8Tlv03nKTGXhLOYOLtqoSm.jpg" group-title="24/7", AVATAR: La Leyenda de Aang
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/4839
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/4I1xjEKZxeeBT8RXg0BA6k6PM8e.jpg" group-title="24/7", One Piece
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/9753
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6sMyV1KRpvnOTsry7ZUT0k2tDmk.jpg" group-title="24/7",24/7 Dragon Ball
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/1968
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/twxobVy7Vi0CwrY9vdncmvXehNn.jpg" group-title="24/7",24/7 Dragon Ball Z
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/1970
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/16n2U8JeKcN1d1fjEcgCkilG8Lm.jpg" group-title="24/7",24/7 Dragon Ball Z Saga Cell
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/9673
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5abVTlprXajvlCHqFvVhhvXErtl.jpg" group-title="24/7",24/7 Dragon Ball Z Saga Boo
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/3481
+#EXTINF:-1, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fXUgrkist7sI39znVmta6FPdM9C.jpg" group-title="24/7",24/7 Dragon Ball Super 
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/3934
+
+
+
+
 
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/sCPwduyyqCrIpSk1kA0p8lwjveB.jpg" group-title="Peliculas Miedo/Suspenso", Annabelle
 https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/Annabelle.mp4
@@ -685,7 +729,7 @@ http://201.172.61.81:85/series/Enero/Chernobyl/05.mp4
 
 
 #EXTINF:0, tvg-logo="https://play-lh.googleusercontent.com/zsJHehkm2ych6JssippQ1QRWipEZl3uKmVXgUyeGBPTO2vZu4dTUx7DqbxX4XWoyeQ" group-title="Canales TV", #IPTV m3u8-mp4-mkv-avi-xlm
-https://archive.org/download/in-shot-20210326-042630582/InShot_20210326_042630582.mp4
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/4858
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png" group-title="Canales TV",Canal de las Estrellas 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="Canales TV", Azteca Uno
