@@ -1,4 +1,8 @@
 #EXTM3U 
+
+#EXTINF:-1, tvg-logo="https://elbayabuyiba.files.wordpress.com/2016/08/50-clasicos.png" group-title="24/7 Series Movies ", 24/7 Clásicos Disney 
+http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/4859
+
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/sCPwduyyqCrIpSk1kA0p8lwjveB.jpg" group-title="Peliculas Miedo/Suspenso", Annabelle
 https://storage.googleapis.com/peliculasmoviesdayplay/1WarnerBross/Annabelle.mp4
 #EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5RVhY8O8AoL28aEQ59gAJAM2SFs.jpg" group-title="Peliculas Miedo/Suspenso", Annabelle la Creacion
