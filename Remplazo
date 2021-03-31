@@ -25,13 +25,13 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1253&f=HLSAD&s=ze
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 #EXTINF:-1,  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png", Capital
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525507-8c.png" group-title="Canales TV", Cinema  AZ
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525507-8c.png", Cinema  AZ
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1787&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416569-8c.png" group-title="Canales TV", Corazon AZ
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416569-8c.png", Corazon AZ
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=70&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png" group-title="Canales TV", Mundo AZ
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png", Mundo AZ
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=84&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416387-8c.png" group-title="Canales TV", Clic AZ
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416387-8c.png", Clic AZ
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416421-8c.png", Teleformula
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
@@ -277,27 +277,27 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=zec
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 #EXTINF:-1, tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png", Top Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531196-8c.png" group-title="Canales TV", Adrenalina
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531196-8c.png", Adrenalina
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8096
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425221-8c.png" group-title="Canales TV", Garage
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425221-8c.png", Garage
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8061
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425471-8c.png" group-title="Canales TV", HTV
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425471-8c.png", HTV
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/7996
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525568-8c.png" group-title="Canales TV", Milenio
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525568-8c.png", Milenio
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8050
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/proxy/91B619lUtfz4qA4nZhsb6scrIjzG7F8KRwcXH4GZgLu6VedwP51rbje7n-WJhPHW89FHAqhxtpYNiW5AIfwKfQ97W6wDzqtN" group-title="Canales TV", Tv Mas
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/proxy/91B619lUtfz4qA4nZhsb6scrIjzG7F8KRwcXH4GZgLu6VedwP51rbje7n-WJhPHW89FHAqhxtpYNiW5AIfwKfQ97W6wDzqtN", Tv Mas
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8012
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1269px-Logo_Univision_2013.svg.png" group-title="Canales TV", Univicion
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1269px-Logo_Univision_2013.svg.png", Univicion
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8007
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Canales TV", Pasiones
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png", Pasiones
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8138
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425443-8c.png" group-title="Canales TV", Caracol
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425443-8c.png", Caracol
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8247
-#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425364-8c.png" group-title="Canales TV", Europa europa
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425364-8c.png", Europa europa
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/7811
-#EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.Multipremier-2020rec1.png.04328646a5a93dc78f03ea93076de581.png" group-title="Canales TV", Multi Premiere
+#EXTINF:-1, tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.Multipremier-2020rec1.png.04328646a5a93dc78f03ea93076de581.png", Multi Premiere
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/7774
-#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-DMDRwMyhoPQ/W1ezVNghVxI/AAAAAAAABOY/bN08j1VFijQL4pUuVvtMIxQi_WBlSqxFACLcBGAs/s1600/AFIZZIONADOS-201x200-879593817.png" group-title="Canales TV", Afizzionados
+#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-DMDRwMyhoPQ/W1ezVNghVxI/AAAAAAAABOY/bN08j1VFijQL4pUuVvtMIxQi_WBlSqxFACLcBGAs/s1600/AFIZZIONADOS-201x200-879593817.png", Afizzionados
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8304
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO 
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8001
@@ -324,6 +324,6 @@ http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/353.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505132-8c.png", VH1 MX
 #EXTVLCOPT:http-user-agent=Joffremz98v20
 http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/358.m3u8
-#EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="Canales TV", WOW TV
+#EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
