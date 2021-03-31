@@ -134,7 +134,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=ze
 #EXTINF:-1,  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582474-8c.png", Star Comedy
 #EXTVLCOPT:http-user-agent=dhB5jbVrHf
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8203
-#EXTINF:-1, tvg-logo="" group-title="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582478-8c.png", Star Fun
+#EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582478-8c.png" , Star Fun
 #EXTVLCOPT:http-user-agent=dhB5jbVrHf
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8200
 #EXTINF:-1,  tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png", Star Channel
