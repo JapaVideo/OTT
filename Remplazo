@@ -319,14 +319,14 @@ http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/7774
 #EXTVLCOPT:http-user-agent=dhB5jbVrHf
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8304
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417658-8c.png", HBO 
-#EXTVLCOPT:http-user-agent=dhB5jbVrHf
-http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8001
+#EXTVLCOPT:http-user-agent=Joffremz98v20
+http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/1473.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417660-8c.png", HBO 2
 #EXTVLCOPT:http-user-agent=dhB5jbVrHf
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/8000
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/603295-8c.png", HBO Family
-#EXTVLCOPT:http-user-agent=dhB5jbVrHf
-http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/7997
+#EXTVLCOPT:http-user-agent=Joffremz98v20
+http://51.222.43.170:36995/live/Joffremz98v20/AsICUDx0Sp/1475.m3u8
 #EXTINF:-1, tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425273-8c.png", HBO Plus
 #EXTVLCOPT:http-user-agent=dhB5jbVrHf
 http://live.fenixtvplay.tk:8080/dhB5jbVrHf/rJPSXAWeKA/7999
