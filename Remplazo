@@ -269,3 +269,18 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=zec
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8
 #EXTINF:-1, tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+-------------------------------------------------------Series-----------------------------------------------------
+
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d0qM3ABz3gdTyUViSm7zOjfsAqz.jpg" tvg-name="Little Birds" group-title="Series", Little Birds S01 E01
+https://archive.org/download/s-01-e-02_20210416/Litle%20Birds/S01E01.mkv
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d0qM3ABz3gdTyUViSm7zOjfsAqz.jpg" tvg-name="Little Birds" group-title="Series", Little Birds S01 E02
+https://archive.org/download/s-01-e-02_20210416/Litle%20Birds/S01E02.mkv
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d0qM3ABz3gdTyUViSm7zOjfsAqz.jpg" tvg-name="Little Birds" group-title="Series", Little Birds S01 E03
+https://archive.org/download/s-01-e-02_20210416/Litle%20Birds/S01E03.mkv
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d0qM3ABz3gdTyUViSm7zOjfsAqz.jpg" tvg-name="Little Birds" group-title="Series", Little Birds S01 E04
+https://archive.org/download/s-01-e-02_20210416/Litle%20Birds/S01E04.mkv
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d0qM3ABz3gdTyUViSm7zOjfsAqz.jpg" tvg-name="Little Birds" group-title="Series", Little Birds S01 E05
+https://archive.org/download/s-01-e-02_20210416/Litle%20Birds/S01E05.mkv
+#EXTINF:0, tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/d0qM3ABz3gdTyUViSm7zOjfsAqz.jpg" tvg-name="Little Birds" group-title="Series", Little Birds S01 E06
+https://archive.org/download/s-01-e-02_20210416/Litle%20Birds/S01E06.mkv
